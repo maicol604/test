@@ -1,0 +1,2 @@
+cd C:\Users\maico\OneDrive\Documentos\Milenial\pideunolaravel
+C:\millenial\php\php.exe artisan serve
