@@ -1,0 +1,39 @@
+.user .avatar img{
+    width: 100%;
+}
+.user .avatar {
+    width: 3em;
+    height: 3em;
+    overflow: hidden;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.user .info {
+    display: flex;
+    flex-direction: column;
+}
+.user .info span {
+    text-align: left;
+}
+.user {
+    display: flex;
+}
+.value-container {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+}
+.value-container span{
+    text-align: left;
+}
+.values {
+    display: flex;
+}
+.card-container{
+    display: flex;
+}
+.warm {
+    color: red;
+}
